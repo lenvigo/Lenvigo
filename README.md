@@ -7,6 +7,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
 - 🌱 I’m a Frontend Web Developer.
+  > **Enfoque Dual en React:** Desarrollo de aplicaciones **Web modernas (con Vite)** y soluciones empresariales con **SharePoint Framework (SPFx)**, utilizando **Yeoman**.
 
 - 🔭 Skills: Marketing, Business Administration, Strategic Planning, Market Research, Customer Relationship Management.
 __________________________________________________________________________________________________________________________
@@ -22,6 +23,7 @@ ________________________________________________________________________________
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/Angular-%E03A3E.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Angular Material](https://img.shields.io/badge/angular%20material-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://material.angular.io/)
 
@@ -38,6 +40,14 @@ ________________________________________________________________________________
 [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+
+---
+### 🌐 &nbsp;Platforms & Enterprise
+
+[![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/sharepoint)
+[![SPFx](https://img.shields.io/badge/SPFx-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://aka.ms/spfx)
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
+[![Google Sites](https://img.shields.io/badge/Google_Sites-%234285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://sites.google.com/)
 
 ---
 
