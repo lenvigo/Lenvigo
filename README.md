@@ -31,6 +31,7 @@ ________________________________________________________________________________
 
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=Symfony&logoColor=white)](https://symfony.com/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -38,6 +39,8 @@ ________________________________________________________________________________
 #### 🐳 DevOps & Deployment
 
 [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/)
 [![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
@@ -48,6 +51,11 @@ ________________________________________________________________________________
 [![SPFx](https://img.shields.io/badge/SPFx-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://aka.ms/spfx)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
 [![Google Sites](https://img.shields.io/badge/Google_Sites-%234285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://sites.google.com/)
+
+---
+### 📊 &nbsp;Data & Automation
+
+[![KNIME](https://img.shields.io/badge/KNIME-FFC107?style=for-the-badge&logo=knime&logoColor=000000)](https://www.knime.com/)
 
 ---
 
