@@ -6,14 +6,16 @@ ________________________________________________________________________________
 > **Herramientas de Diseño:** Figma, Canva, Adobe (Illustrator, InDesign), Inkscape.
   
 - 🌱 I’m a Frontend Web Developer.
-> **Especialización:** Desarrollo de aplicaciones **Web modernas con React (usando Vite)** y soluciones empresariales con **SharePoint Framework (SPFx) mediante Yeoman**.
-> **Diseño/Componentes:** Experiencia en sistemas de diseño (*Design Systems*) como **Fluent UI**, **Angular Material** y el **FLAME Design System** (Santander).
+<!--    **Especialización:** Desarrollo de aplicaciones **Web modernas con React (usando Vite)** y soluciones empresariales con **SharePoint Framework (SPFx) mediante Yeoman**.
+      > **Diseño/Componentes:** Experiencia en sistemas de diseño (*Design Systems*) como **Fluent UI**, **Angular Material** y el **FLAME Design System** (Santander).
+-->
   
 - 🔭 Skills: Marketing, Business Administration, Strategic Planning, Market Research, Customer Relationship Management.
 __________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
 ### 🛠 &nbsp;Tech Stack
+
 ---
 
 #### 💻 Frontend 
@@ -29,6 +31,8 @@ ________________________________________________________________________________
 [![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
+---
+
 #### ⚙️ Backend & Lenguajes 
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -38,12 +42,16 @@ ________________________________________________________________________________
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=Symfony&logoColor=white)](https://symfony.com/)
 
+---
+
 #### 🌐 Platforms & Enterprise
 
 [![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/sharepoint)
 [![SPFx](https://img.shields.io/badge/SPFx-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://aka.ms/spfx)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
 [![Google Sites](https://img.shields.io/badge/Google_Sites-%234285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://sites.google.com/)
+
+---
 
 #### 🐳 DevOps, CI/CD & Deployment
 
@@ -56,17 +64,23 @@ ________________________________________________________________________________
 [![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
+---
+
 #### 🗃 &nbsp;Databases & Data Processing
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![KNIME](https://img.shields.io/badge/KNIME-FFC107?style=for-the-badge&logo=knime&logoColor=000000)](https://www.knime.com/)
 
+---
+
 #### 🧪 &nbsp;Testing & Quality
 
 [![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)](https://junit.org/)
 [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)
+
+---
 
 #### 🧰 &nbsp;Tools 
 
@@ -75,7 +89,9 @@ ________________________________________________________________________________
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)](https://analytics.google.com/)
+
 __________________________________________________________________________________________________________________________
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenvigo&theme=transparent&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/lenvigo/github-readme-stats)&nbsp;
 
